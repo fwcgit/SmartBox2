@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC3.3 Pin=P1-2
+Removed Pin From Net: NetName=VCC12V Pin=P1-5
+Removed Pin From Net: NetName=VCC3.3 Pin=P1-7
+Added Pin To Net: NetName=VCC3.3 Pin=P1-1
+Added Pin To Net: NetName=VCC12V Pin=P1-3
+Added Pin To Net: NetName=VCC3.3 Pin=P1-6
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=R37-1
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=R38-1
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP1_7 Pin=P1-7
+Added Pin To Net: NetName=NetP1_7 Pin=R39-1
+Added Net: Name=NetP1_7
+Added Room: Name=main
